@@ -9,6 +9,7 @@ Labs are practical exercises that helps you get hands on experience to underst
 ## Repository Structure
 The repository is organized as follows:
 ```
+├── Neural Computing and Deep Learning (MOD006568)
 ├── Week-1
 │   ├── Week1-Lab.ipynb       # Jupyter Notebook for the Week 1 task
 │   ├── Output_Graph.png  # Graph required for the lab logbook
