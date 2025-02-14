@@ -1,0 +1,19 @@
+Text-Image to Video Project references
+
+https://aws.amazon.com/blogs/machine-learning/image-and-video-prompt-engineering-for-amazon-nova-canvas-and-amazon-nova-reel/
+
+https://opentools.ai/news/google-unveils-whisk-the-future-of-ai-image-generation-with-image-based-prompts
+
+https://cloud.google.com/blog/products/ai-machine-learning/introducing-veo-and-imagen-3-on-vertex-ai
+
+https://news.mit.edu/2024/generative-ai-lacks-coherent-world-understanding-1105
+
+https://ieeexplore.ieee.org/document/10638808
+
+https://arxiv.org/html/2407.14962v1
+
+https://arxiv.org/abs/2407.14962
+
+https://www.theverge.com/2024/12/9/24317092/openai-sora-text-to-video-ai-launch?utm_source=chatgpt.com
+
+more coming soon....
