@@ -1,5 +1,34 @@
 .vscode
 .vscode/*
+.dogs-vs-cats
+dogs-vs-cats/
+/dogs-vs-cats/
+.test_data
+.training_data
+.validation_data
+.myVGGmodel.keras
+.myAlexNetModel.keras
+/myAlexNetModel.keras
+/myVGGmodel.keras
+myVGGmodel.keras/
+myAlexNetModel.keras/
+.Research Methods (MOD002695)
+/Research Methods (MOD002695)
+
+.myAlexNetModel.keras
+/myAlexNetModel.keras
+myAlexNetModel.keras/
+myVGGmodel.keras/
+myVGGmodel.keras
+.myVGGmodel.keras
+
+test_data/
+training_data/
+validation_data/
+
+/test_data
+/training_data
+/validation_data
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
